@@ -1,0 +1,7 @@
+** RubySOM
+
+Using a SOM (self-organizing map / kohonen map) to solve the traveling salesman problem, implemented in Ruby.
+
+Generates graphs and finished maps at different intervals.
+
+See country specs in the 'input' folder and settings.rb file.
